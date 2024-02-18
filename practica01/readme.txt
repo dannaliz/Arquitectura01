@@ -32,8 +32,13 @@ Asi, de abajo hacia arriba obtenemos que el número hexadecimal es 3C.
 3. Desarrolla cuál es el número mínimo de bits requeridos para representar todos
 los caracteres en un teclado que tiene...
 • 9 letras.
+= 4bits
+
 • 16 letras.
+= 5 bits
+
 • 17 letras.
+= 5 bits
 
 4. En general, ¿es posible hacer la conversión entre una base n y una base m, para
 cualquier n, m > 1 y n ̸= m? Desarrolla.
